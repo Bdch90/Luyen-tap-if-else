@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var Encrypt = prompt("What is the official name of JavaScript?",'');
+
+    if (Encrypt == "ECMAScript") {
+        alert("Chinh Xac");
+    }else {
+        alert(“Didn’t know? ECMAScript”);
+    }
+
+</script>
+</body>
+</html>
